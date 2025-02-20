@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Julien!
 - 👀 I’m interested in mangas, video-games,mechanical keyboards, climbing and Japan !
 - 🌱 I’m currently in school to learn Mobile Application Programming!
-- 💞️ I’m looking to collaborate on plenty of things, but I'd like to start with smaller projects :)
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
